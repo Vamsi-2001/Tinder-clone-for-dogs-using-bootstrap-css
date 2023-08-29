@@ -1,8 +1,7 @@
-.gradient-background{
+.gradient-background {
   background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
   background-size: 180% 180%;
   animation: gradient-animation 18s ease infinite;
-  padding: none;
 }
 
 @keyframes gradient-animation {
@@ -28,46 +27,3 @@
   border-radius: 50%;
 }
 
-.text-body-emphasis{
-  font-size: 2.75rem;
-  padding-bottom: 10px;
-}
-
-.btn-outline-secondary{
-  color: white;
-  border: solid 1px white;
-}
-
-.btn-primary{
-  background-color: white;
-  color: black;
-  border: none;
-  
-}
-.rounded-lg-3{
-  padding-top: 5px;
-  padding-bottom: none;
-}
-.icon-square{
-  padding-top: 10px;
-}
-#features{
-  margin-top: 5px;
-}
-.btn-outline-primary{
-  border: 1px solid black;
-  color: black;
-}
-.btn-primary{
-  background-color: black;
-  color: white;
-}
-.border-primary{
-  border-color: black;
-}
-.bbc{
-  background-color: black;
-}
-n3{
-  margin-bottom: none;
-}
